@@ -17,5 +17,6 @@
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us16.list-manage.com\",\"uuid\":\"3b3ede02bfe0a96ad0cc6f22d\",\"lid\":\"e02e478bb8\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
-  "publish": true
+  "publish": true,
+  "example-url": ["https://imin-ltd.github.io/gladstone-adapter-documentation/example.json"]
 }
